@@ -1,0 +1,8 @@
+automation_core\Base.class
+testscript\HomeTest.class
+testscript\LoginTest.class
+testscript\SubCategoryTest.class
+testscript\ManageNews.class
+listeners\Listeners.class
+retry\ReTry.class
+testscript\AdminUserTest.class
